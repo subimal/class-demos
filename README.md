@@ -1,6 +1,9 @@
 # class-demos
 Simulations for teaching undergraduates
 
+Author : Subimal Deb
+
+e-mail : subimal.deb@gmail.com 
 
 ### Quantum Mechanics
 
@@ -11,4 +14,4 @@ Simulations for teaching undergraduates
 ### Solid State Physics
 | Topic |	Description |
 | ----- | ----------- |
-| Unit cells |	Asymptote code. |
+| Unit cells |	Asymptote codes for unit cells of simple cubic, base-centered cubic, FCC, body-centered cubic, hexagonal close packed structures. |
